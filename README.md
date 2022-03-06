@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:K.me4dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:K.me4dev@gmail.com)](mailto:K.me4dev@gmail.com)
 	
   
   
