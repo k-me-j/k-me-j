@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-저작권 문제로 많은 repo들이 닫혀있습니다  
+
 연락하기 >> 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:K.me4dev@gmail.com)](mailto:K.me4dev@gmail.com)
 	
